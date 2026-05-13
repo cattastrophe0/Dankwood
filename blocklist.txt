@@ -34,7 +34,3 @@
 ||netflix.com^$client='Garage Router'|'Main Router'
 ||ebay.com^$client='Garage Router'|'Main Router'
 ||yahoo.com^$client='Garage Router'|'Main Router'
-
-# Allowlist
-@@||sjwgroup.gpcloudservice.com^$important
-! SJW VPN
